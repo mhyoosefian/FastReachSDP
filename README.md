@@ -17,5 +17,7 @@ Currently, the code approximates the reachable set with hyper-cubes. Other polyt
 
 # References
 1- Hu, H., Fazlyab, M., Morari, M. and Pappas, G.J., 2020, December. Reach-sdp: Reachability analysis of closed-loop systems with neural network controllers via semidefinite programming. In 2020 59th IEEE Conference on Decision and Control (CDC) (pp. 5929-5934). IEEE.
+
 2- Fazlyab, M., Morari, M. and Pappas, G.J., 2021, December. An introduction to neural network analysis via semidefinite programming. In 2021 60th IEEE Conference on Decision and Control (CDC) (pp. 6341-6350). IEEE.
+
 3- Entesari, T. and Fazlyab, M., 2023, June. Automated reachability analysis of neural network-controlled systems via adaptive polytopes. In Learning for Dynamics and Control Conference (pp. 407-419). PMLR.
