@@ -15,7 +15,7 @@ The code is abundant with comments. You can choose whether to run it for the qua
 The code uses Yalmip as the modelling language. You can choose the solver by changing the variable 'solver' in the code. By default, it uses MOSEK. It is highly recommended to use MOSEK!
 
 # To do
-Currently, the code approximates the reachable set with hyper-cubes. Other polytopes can be used to have a tighter over-approximation [3]. Also, this code could be used for probabilistic verification as in [4]. One example is shown below.
+Currently, the code approximates the reachable set with hyper-cubes. Other polytopes can be used to have a tighter over-approximation [3]. Also, this code could be modified to be used for probabilistic verification as in [4]. One example is shown below.
 
 <img src="/images/2.png" width="60%" height="60%">
 
