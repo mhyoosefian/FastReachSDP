@@ -2,7 +2,8 @@
 This repository contains the code for fast reach-SDP. 
 
 # Reach-SDP
-Reach-SDP was developed in [1] to compute a tight reachable set for dynamical systems in feedback with neural network controllers. This repository contains a code for it. Unlike the original code provided the authors of the original paper, this code is not just developed for the double integrator or the quadrotor. It works for any dynamical system in feedback with a ReLU neural network with any number and size of hidden layers. 
+Reach-SDP was developed in [1] to compute a tight reachable set for dynamical systems in feedback with neural network controllers. This repository contains a code for it. Unlike the original code provided the authors of the original paper, this code is not just developed for the double integrator or the quadrotor. It works for any dynamical system in feedback with a ReLU neural network with any number and size of hidden layers. The output for the double integrator is shown below.
+<img src="/images/1.png" width="90%" height="90%">
 
 Moreover, this code should be faster than the original code provided in [1], as the matrices that appear in the LMI are smaller. In this code, the approach developed in [2] is used. To be more specific, instead of a single large matrix for the neural network in the LMI, we have one smaller matrix for each layer. 
 
