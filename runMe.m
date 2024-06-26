@@ -1,6 +1,6 @@
 % This is a general code for fast Reach-SDP.
 % Author: Mohammad Hussein Yoosefian Nooshabadi,
-% yoosefiannooshabad.m@northeastern.edu
+% yoosefiannooshabad.m at northeastern.edu
 % Last edited: November 5, 2023.
 
 % HOW TO USE THE CODE: Either choose from two predefined systems (quadrotor
